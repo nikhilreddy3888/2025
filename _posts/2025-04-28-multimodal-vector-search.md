@@ -3,13 +3,13 @@ layout: distill
 title: "Bridging the Modality Gap: Enhancing Document Retrieval with Multimodal Embeddings"
 description: In an era where documents seamlessly blend rich textual and visual content, traditional retrieval systems often fall short. This post explores how Multimodal Embeddings bridge the modality gap, introducing advanced models such as VISTA and ColPali, along with innovative evaluation methods, enhanced model interpretability, and an analysis of their performance.
 date: 2024-11-20
-# authors:
-#   - name: Nikhil Reddy
-#     affiliations:
-#       name: Mila, Quebec
-# Anonymize when submitting
 authors:
- - name: Anonymous
+  - name: Nikhil Reddy
+    affiliations:
+      name: Mila, Quebec
+# Anonymize when submitting
+# authors:
+#  - name: Anonymous
 bibliography: 2025-04-28-multimodal-vector-search.bib
 toc:
   - name: Introduction
@@ -434,4 +434,4 @@ The shift from unimodal to multimodal approaches in document retrieval is revolu
 *"The future is bright, and it's multimodal."*
 
 
-<!-- **Nikhil Reddy** is a researcher at Mila, Quebec, specializing in machine learning, computer vision, and information retrieval systems. -->
+**Nikhil Reddy** is a researcher at Mila, Quebec, specializing in machine learning, computer vision, and information retrieval systems.
