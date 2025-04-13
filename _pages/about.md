@@ -74,7 +74,7 @@ We will only ask the authors to report if they have a conflict of interest. If s
 
 ## Publication 
 
-The posts will be created and published under a unified template; see [the submission instructions]({{ '/submitting' | relative_url }}) and the [sample post]({% post_url 2025-04-28-distill-example %}) hosted on the blog of this website.
+The posts will be created and published under a unified template; see [the submission instructions]({{ '/submitting' | relative_url }}) and the [sample post]({% post_url 2025-04-28-multimodal-vector-search %}) hosted on the blog of this website.
 
 #### Poster
 
@@ -82,7 +82,7 @@ Additionally, accepted posts will have the option to present their work as a pos
 
 ## Submissions
 
-Our goal is to avoid heavily engineered, professionally-made blog posts ---Such as the “100+ hours” mentioned as a standard by the [Distill guidelines](https://distill.pub/journal/)---to entice ideas and clear writing rather than dynamic visualizations or embedded javascript engines.
+Our goal is to avoid heavily engineered, professionally-made blog posts ---Such as the "100+ hours" mentioned as a standard by the [Distill guidelines](https://distill.pub/journal/)---to entice ideas and clear writing rather than dynamic visualizations or embedded javascript engines.
 Please check our [submission instructions]({{ '/submitting' | relative_url }}) for more details.
 We accept submissions in both Markdown and HTML. We believe this is a good trade-off between complexity and flexibility. 
 
@@ -110,7 +110,7 @@ For other inquiries, reach us via email at: [iclr-blogpost-track@googlegroups.co
 
 <a name="Tran">David Tran, Alex Valtchanov, Keshav Ganapathy, Raymond Feng, Eric Slud, Micah Goldblum, and Tom Goldstein. An open review of OpenReview: A critical analysis of the machine learning conference review process. arXiv, 2020. </a>
 
-<a name="Lin">Hsuan-Tien Lin, Maria-Florina Balcan, Raia Hadsell, and Marc’Aurelio Ranzato. What we learned from NeurIPS 2020 reviewing process. Medium https://medium.com/@NeurIPSConf/what-we-learned-from-neurips-2020-reviewing-process-e24549eea38f, 2020. </a>
+<a name="Lin">Hsuan-Tien Lin, Maria-Florina Balcan, Raia Hadsell, and Marc'Aurelio Ranzato. What we learned from NeurIPS 2020 reviewing process. Medium https://medium.com/@NeurIPSConf/what-we-learned-from-neurips-2020-reviewing-process-e24549eea38f, 2020. </a>
 
 <a name="Brow">Eryn Brown and Chris Woolston. Why science blogging still matters. Nature, 2018.</a>
 
