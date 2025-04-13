@@ -1,4 +1,5 @@
-gem 'uri', '1.0.3'
+# Remove explicit uri dependency which conflicts with system defaults
+# gem 'uri', '1.0.3'
 
 source 'https://rubygems.org'
 group :jekyll_plugins do
